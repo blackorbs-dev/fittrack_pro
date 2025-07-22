@@ -1,0 +1,5 @@
+
+enum ChartType {
+  heartRate,
+  calories,
+}
