@@ -6,7 +6,7 @@ import 'package:fittrack_pro/core/constants/app_constants.dart';
 import 'package:fittrack_pro/features/workout/data/repository/workout_repository_impl.dart';
 
 import '../../../util/channel_util.dart';
-import '../../../util/mock_response.dart';
+import '../../../util/mock_instances.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

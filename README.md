@@ -60,16 +60,16 @@ These intuitive gestures enhance user control without extra buttons.
 
 1. **🔵 Progress Ring**
     - Custom circular progress with multiple animated segments
-    - Reflects real-time workout/heart rate goals
+    - Reflects real-time workout session goals
 
 2. **✨ Morphing FAB**
-    - Floating action button that smoothly changes shape and state (play/pause/stop)
+    - Floating action button that smoothly changes shape and state
 
 3. **🃏 Staggered Card Animation**
     - Dashboard stat cards animate in with staggered timing and bounce
 
 4. **📈 Custom Chart**
-    - Hand-drawn-style line chart with smooth transitions between heart rate/session data
+    - Hand-drawn-style line chart with smooth transitions between heart rate/calories data
 
 5. **🔄 Custom Loading Widget**
     - Compact animated spinner used during state transitions and syncing

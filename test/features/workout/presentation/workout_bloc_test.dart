@@ -11,7 +11,7 @@ import 'package:fittrack_pro/features/workout/presentation/bloc/workout_state.da
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 
-import '../../../util/mock_response.dart';
+import '../../../util/mock_instances.dart';
 
 class MockWorkoutRepository extends Mock implements WorkoutRepository {}
 

@@ -8,7 +8,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 
-import '../../../util/mock_response.dart';
+import '../../../util/mock_instances.dart';
 
 class MockWorkoutBloc extends Mock implements WorkoutBloc {}
 
